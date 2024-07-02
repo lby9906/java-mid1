@@ -1,4 +1,4 @@
-package lang.string;
+package lang.string.method;
 
 public class StringBasicMain {
     public static void main(String[] args) {
